@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gelasajarso
+- 👋 Hi, I’m Gelasa Jarso
 - 👀 I’m interested in tech world!
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on Projects.
