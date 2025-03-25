@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Gelasa Jarso
 - 👀 I’m interested in tech world!
-- 🌱 I’m currently learning Software Engineering
+- 🌱 I’m currently learning Software Engineering.
 - 💞️ I’m looking to collaborate on Projects.
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me ...gelasajarso3@gmail.com
+- 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...
 
 <!---
