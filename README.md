@@ -7,7 +7,7 @@ I’m currently learning Software Engineering.
 I’m looking to collaborate on Projects.
 
 How to reach me -> gelasajarso3@gmail.com 
-@gelasa_jarso
+https://t.me/gelasa_jarso  
 
 He/Him
 ⚡ Fun fact:
