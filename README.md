@@ -1,8 +1,14 @@
 👋 HI There, I'm Gelasa Jarso!
+
 For me, coding is a blend of logic and creativity.
+
 I’m currently learning Software Engineering.
+
 I’m looking to collaborate on Projects.
-How to reach me -> gelasajarso3@gmail.com
+
+How to reach me -> gelasajarso3@gmail.com 
+@gelasa_jarso
+
 He/Him
 ⚡ Fun fact:
 
