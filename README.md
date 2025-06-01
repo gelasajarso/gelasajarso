@@ -1,6 +1,11 @@
-👋 HI There, I'm Gelasa Jarso!
+👋 HI There, **I'm Gelasa Jarso**.
+
 I’m currently learning Software Engineering.
-How to reach me -> gelasajarso3@gmail.com 
+
+How to reach me ->
+
+gelasajarso3@gmail.com 
+
 https://t.me/gelasa_jarso  
 <!---
 gelasajarso/gelasajarso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
