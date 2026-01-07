@@ -1,6 +1,6 @@
 👋 HI There, **I'm Gelasa Jarso**.
 
-I’m currently learning Software Engineering Student.
+I’m Software Engineering Student.
 
 How to reach me ->
 
